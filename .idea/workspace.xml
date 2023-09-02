@@ -5,51 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa702e24-46cc-4706-a4e9-da2619def65f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch01_start/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch01_start/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch01_start/StringClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/Hiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/ObjectOrientedProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/SampleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/StaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/TheParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/Vargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/hiding/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch02_oop/hiding/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/Boxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/BoxingUnboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/Packages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/ReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/ThisAndSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch03_fundamentals/WideningNarrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch04_exceptions/CustomExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch04_exceptions/Framework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch04_exceptions/Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch04_exceptions/TryCatchFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch05_strings/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch05_strings/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch05_strings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch06_collections/CollectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch06_collections/CollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch06_collections/TimeRelated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Bagging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Logging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/Class1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch09_jvm/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch09_jvm/example/ExampleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch10_database/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch10_database/Crud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch10_database/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/HttpClientDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/TcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/UdpReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/UdpSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/UrlClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch11_network/UrlServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Bagging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Bagging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Logging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch07_libraries/Logging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/FutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/FutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/Pools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/Pools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/ThreadInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/ThreadInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/ThreadMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/ThreadMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/learnjava/ch08_threads/Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/Class1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tsola2002/learnjava/ch07_libraries/Class1Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +65,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/isaac/Documents/java-projects/learnjava&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -97,13 +78,13 @@
       <recent name="com.tsola2002.learnjava.ch07_libraries" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Codec">
-    <configuration name="Bagging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch07_libraries.Bagging" />
+  <component name="RunManager" selected="Application.UrlServer">
+    <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch11_network.HttpClientDemo" />
       <module name="learnjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.learnjava.ch07_libraries.*" />
+          <option name="PATTERN" value="com.tsola2002.learnjava.ch11_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch07_libraries.Codec" />
+    <configuration name="TcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch11_network.TcpClient" />
       <module name="learnjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.learnjava.ch07_libraries.*" />
+          <option name="PATTERN" value="com.tsola2002.learnjava.ch11_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch07_libraries.Logging" />
+    <configuration name="TcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch11_network.TcpServer" />
       <module name="learnjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.learnjava.ch07_libraries.*" />
+          <option name="PATTERN" value="com.tsola2002.learnjava.ch11_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,45 +118,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UrlClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch11_network.UrlClient" />
       <module name="learnjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.learnjava.ch07_libraries.*" />
+          <option name="PATTERN" value="com.tsola2002.learnjava.ch11_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.tsola2002.learnjava.ch07_libraries" />
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch07_libraries.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Class1Test.multiplyByTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UrlServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch11_network.UrlServer" />
       <module name="learnjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.learnjava.ch07_libraries.*" />
+          <option name="PATTERN" value="com.tsola2002.learnjava.ch11_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.tsola2002.learnjava.ch07_libraries" />
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.learnjava.ch07_libraries.Class1Test" />
-      <option name="METHOD_NAME" value="multiplyByTwo" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HttpClientDemo" />
+      <item itemvalue="Application.UrlClient" />
+      <item itemvalue="Application.UrlServer" />
+      <item itemvalue="Application.TcpClient" />
+      <item itemvalue="Application.TcpServer" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Codec" />
-        <item itemvalue="Application.Bagging" />
-        <item itemvalue="Application.Logging" />
-        <item itemvalue="JUnit.Class1Test.multiplyByTwo" />
-        <item itemvalue="JUnit.CalculatorTest.testAdd" />
+        <item itemvalue="Application.HttpClientDemo" />
+        <item itemvalue="Application.UrlServer" />
+        <item itemvalue="Application.UrlClient" />
+        <item itemvalue="Application.TcpClient" />
+        <item itemvalue="Application.TcpServer" />
       </list>
     </recent_temporary>
   </component>

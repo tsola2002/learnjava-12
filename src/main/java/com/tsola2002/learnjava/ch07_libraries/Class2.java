@@ -4,14 +4,22 @@ public class Class2 {
   // FIELD
   int a;
 
+  String b;
+
   // CONSTRUCTOR
-  public Class2(int a) {
+  public Class2(int a, String b) {
+
     this.a = a;
+
+    this.b = "tayo";
+
   }
 
   // GETTER METHOD
   public int getValue() {
+
     return a;
+
   }
 
   // SETTER METHOD

@@ -21,4 +21,24 @@ public class Class1Test {
     Assert.assertEquals(10, actualResult);
 
   }
+
+  @Test
+  public void divideByTwo() {
+
+    //CREATING A MOCK OBJECT
+    Class2 class2Mock =  Mockito.mock(Class2.class);
+
+    Mockito.when(class2Mock.getValue())
+           .thenReturn(10);
+
+    // CREATING THE REAL OBJECT TO TEST WITH
+    Class1 class1 =  new Class1();
+
+    // RUNNING THE CLASS1 METHOD USING OUR REAL OBJECT
+    int divideResult = class1.divideByTwo(class2Mock);
+
+    // VERIFY THE EXPECTED RESULT WITH THE ACTUAL RESULT
+    Assert.assertEquals(5, divideResult);
+
+  }
 }

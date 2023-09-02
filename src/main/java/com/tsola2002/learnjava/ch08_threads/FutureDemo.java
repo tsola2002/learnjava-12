@@ -1,10 +1,12 @@
 package com.tsola2002.learnjava.ch08_threads;
 
+import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-public class Future {
+public class FutureDemo {
 
   public static void main(String[] args) {
     futureSubmitRunnable1();
@@ -34,6 +36,36 @@ public class Future {
     }
 
   }
+
+  private static void shutdownAndTerminate(ExecutorService pool){
+    try {
+      long timeout = 100;
+      TimeUnit timeUnit = TimeUnit.MILLISECONDS;
+      System.out.println("Waiting all threads completion for "
+          + timeout + " " + timeUnit + "...");
+      // Blocks until timeout or all threads complete execution,
+      // or the current thread is interrupted, whichever happens first.
+      boolean isTerminated =
+          pool.awaitTermination(timeout, timeUnit);
+      System.out.println("isTerminated()=" + isTerminated);
+      if (!isTerminated) {
+        System.out.println("Calling shutdownNow()...");
+        List<Runnable> list = pool.shutdownNow();
+        System.out.println(list.size() + " threads running");
+        isTerminated =
+            pool.awaitTermination(timeout, timeUnit);
+        if (!isTerminated) {
+          System.out.println("Some threads are still running");
+        }
+        System.out.println("Exiting");
+      }
+    } catch (InterruptedException ex) {
+      ex.printStackTrace();
+    }
+
+  }
+
+
 
   private static class MyRunnable implements Runnable {
     private String name;

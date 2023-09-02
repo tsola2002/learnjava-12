@@ -14,10 +14,10 @@ import org.apache.commons.collections4.map.LinkedMap;
 public class Bagging {
 
   public static void main(String[] args) {
-  //  bagging();
-  //  bidiMap();
-    // mapIterator();
-    orderedMapping();
+   //bagging();
+   //bidiMap();
+    mapIterator();
+   // orderedMapping();
   }
 
   private static void orderedMapping() {
@@ -48,6 +48,8 @@ public class Bagging {
   private static void bidiMap() {
 
     BidiMap<Integer, String> bidi = new TreeBidiMap<>();
+
+
     bidi.put(2, "two");
 
     bidi.put(3, "three");
@@ -62,21 +64,28 @@ public class Bagging {
 
     System.out.println(bidi.getKey("four"));
 
-    bidi.removeValue("three");
+    //bidi.removeValue("three");
+    bidi.remove(3);
 
     System.out.println(bidi);
   }
 
   private static void bagging() {
 
+    // CREATING A BAG OF STRINGS
     Bag<String> myBag = new HashBag<>();
+    Bag<Integer> intMyBag = new HashBag<>();
+
     myBag.add("one", 5);
-    System.out.println(myBag);
+    intMyBag.add(15, 10);
+    //System.out.println(myBag);
 
     myBag.remove("one", 1);
+    intMyBag.remove(15, 5);
     System.out.println(myBag);
+    System.out.println(intMyBag);
 
-    System.out.println(myBag.getCount("one"));
+   // System.out.println(myBag.getCount("one"));
   }
 
 }

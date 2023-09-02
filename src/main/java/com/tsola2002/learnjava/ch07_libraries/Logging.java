@@ -11,15 +11,13 @@ public class Logging {
     new Logging().multiplyByTwo(null);
   }
 
-
     public int multiplyByTwo(Class2 class2){
       if(class2 == null){
-        logger.error("The parameter should not be null");
+        // USE THE LOG4J LIBRARY TO LOG AN ERROR
+        logger.error("THIS IS VERY WRONG");
         System.exit(1);
       }
       return class2.getValue() * 2;
-
-
   }
 
 }
